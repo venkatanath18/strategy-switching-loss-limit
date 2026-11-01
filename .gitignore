@@ -1,0 +1,4 @@
+# downloaded data; the scripts recreate it
+data/
+__pycache__/
+.DS_Store
